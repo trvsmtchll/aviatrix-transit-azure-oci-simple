@@ -1,6 +1,5 @@
 # Azure Transit Module
 module "azure_transit_1" {
-  #source                 = "./terraform-aviatrix-azure-transit"
   source                 = "terraform-aviatrix-modules/azure-transit/aviatrix"
   version                = "3.0.0"
   name                   = "test-transit"

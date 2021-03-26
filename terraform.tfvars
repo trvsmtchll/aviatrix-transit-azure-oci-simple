@@ -49,5 +49,5 @@ oci_db_spokes = {
 }
 
 // OCI Flex VMs
-ssh_public_key   = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDAzCYl8AwTP30RJJYrJwQ0Y2slbRdCQNL7hzoiasWULq/CbQ5wZ4mG5pW9UwC1T3AWGRguTH2WR1zcgUbWcxqFFHiZ+QfO3AL+B9Mz0n0O2zriCmZQ8pYFG+xwbyqy9RcFMN/l23Q5kLbj9q2wlW31DTdrGbd4xXnAMcJqC4wRyD5A51GbwcljmEmf9uHsif2sPC0MXNu4PHqWKcYkeGsZ0NIjAtdWMt8l47xx6xYgN85mmus51ZBC/zAN0XgMwUkKI+NrT6DPRm2/XG1amOgqLeelOfF8bpDEsvBl4o6uP80ACyqs807e0X+2Z/uIw5W0fqDDBilOkvFKbjbNqfux travis@tm-mbp16.lan1"
-compartment_ocid = "ocid1.compartment.oc1..aaaaaaaaha5ge6yg6bp5tctzya5yfcmfwak7y2mirz44wyccyzl2zpdwwbrq"
+ssh_public_key   = "ssh-rsa AAxxxxxxxxxxx"
+compartment_ocid = "ocid1.compartment.oc1..aaaaaaaahaxxxxxxxx"

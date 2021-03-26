@@ -5,6 +5,16 @@
 *.tfstate
 *.tfstate.*
 
+# Kubeconfig
+*kubeconfig*
+
+# Pem and .env
+*.pem 
+*.env
+
+# db wallets
+*.zip
+
 # Crash log files
 crash.log
 
